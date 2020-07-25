@@ -1,0 +1,8 @@
+com\hyframework\utility\ConfigDataProvider.class
+com\hyframework\test\Homepagetest.class
+com\hyframework\utility\ExcelDataProvider.class
+com\hyframework\utility\BrowserFactory.class
+com\hyframework\utility\Helper.class
+com\hyframework\pages\Baseclass.class
+com\hyframework\pages\CRMhomepage.class
+com\hyframework\pages\Loginpage.class
