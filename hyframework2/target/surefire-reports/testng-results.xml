@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="41318" started-at="2020-07-25T19:00:36 IST" finished-at="2020-07-25T19:01:17 IST">
+  <suite name="Suite" duration-ms="46990" started-at="2020-07-26T11:02:25 IST" finished-at="2020-07-26T11:03:12 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="41318" started-at="2020-07-25T19:00:36 IST" finished-at="2020-07-25T19:01:17 IST">
+    <test name="Test" duration-ms="46990" started-at="2020-07-26T11:02:25 IST" finished-at="2020-07-26T11:03:12 IST">
       <class name="com.hyframework.test.Homepagetest">
-        <test-method status="PASS" signature="setReport()[pri:0, instance:com.hyframework.test.Homepagetest@3632be31]" name="setReport" is-config="true" duration-ms="205" started-at="2020-07-25T19:00:35 IST" finished-at="2020-07-25T19:00:36 IST">
+        <test-method status="PASS" signature="setReport()[pri:0, instance:com.hyframework.test.Homepagetest@3632be31]" name="setReport" is-config="true" duration-ms="199" started-at="2020-07-26T11:02:25 IST" finished-at="2020-07-26T11:02:25 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setReport -->
-        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:com.hyframework.test.Homepagetest@3632be31]" name="setup" is-config="true" duration-ms="21751" started-at="2020-07-25T19:00:36 IST" finished-at="2020-07-25T19:00:57 IST">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:com.hyframework.test.Homepagetest@3632be31]" name="setup" is-config="true" duration-ms="26397" started-at="2020-07-26T11:02:25 IST" finished-at="2020-07-26T11:02:52 IST">
           <params>
             <param index="0">
               <value>
@@ -27,11 +27,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="WelcomeHomePage()[pri:0, instance:com.hyframework.test.Homepagetest@3632be31]" name="WelcomeHomePage" duration-ms="13810" started-at="2020-07-25T19:00:57 IST" finished-at="2020-07-25T19:01:11 IST">
+        <test-method status="PASS" signature="WelcomeHomePage()[pri:0, instance:com.hyframework.test.Homepagetest@3632be31]" name="WelcomeHomePage" duration-ms="13997" started-at="2020-07-26T11:02:52 IST" finished-at="2020-07-26T11:03:06 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- WelcomeHomePage -->
-        <test-method status="PASS" signature="teardownmethod(org.testng.ITestResult)[pri:0, instance:com.hyframework.test.Homepagetest@3632be31]" name="teardownmethod" is-config="true" duration-ms="1230" started-at="2020-07-25T19:01:11 IST" finished-at="2020-07-25T19:01:12 IST">
+        <test-method status="PASS" signature="teardownmethod(org.testng.ITestResult)[pri:0, instance:com.hyframework.test.Homepagetest@3632be31]" name="teardownmethod" is-config="true" duration-ms="904" started-at="2020-07-26T11:03:06 IST" finished-at="2020-07-26T11:03:07 IST">
           <params>
             <param index="0">
               <value>
@@ -42,7 +42,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardownmethod -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hyframework.test.Homepagetest@3632be31]" name="tearDown" is-config="true" duration-ms="4473" started-at="2020-07-25T19:01:12 IST" finished-at="2020-07-25T19:01:17 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hyframework.test.Homepagetest@3632be31]" name="tearDown" is-config="true" duration-ms="5651" started-at="2020-07-26T11:03:07 IST" finished-at="2020-07-26T11:03:12 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
