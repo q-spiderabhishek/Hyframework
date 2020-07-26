@@ -27,7 +27,7 @@ WebDriver driver;
 	{
 		
 		try {
-			Thread.sleep(4000);
+			Thread.sleep(7000);
 		} catch (InterruptedException e) {
 			
 			System.out.println(" Home page ");
@@ -37,7 +37,7 @@ WebDriver driver;
 		contactmenu.click();
 		
 		try {
-			Thread.sleep(4000);
+			Thread.sleep(7000);
 		} catch (InterruptedException e) {
 			
 			System.out.println(" click on contact ");
@@ -47,7 +47,7 @@ WebDriver driver;
 		Newcontact.click();
 		
 		try {
-			Thread.sleep(4000);
+			Thread.sleep(7000);
 		} catch (InterruptedException e) {
 			
 			System.out.println(" Create new contact ");
